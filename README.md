@@ -33,7 +33,7 @@ After completing all of my code, the end result is an 8 page pdf detailing each 
 
 [Results State Information.pdf](https://github.com/MauricioTheAnalyst/Minimum-Wage-Analysis/files/9110261/Results.State.Information.pdf)
 
-### 4. Drew Meaningful Conclusion from data analysis
+### 4. Drew Meaningful Conclusions from data analysis
 
 During my analysis I realized that my cousin was in fact right. From the image above, we can conclude that a minimum wage worker in Washington is better off than a minimum wage worker in California because they can work less hours to meet their cost of living. But I did not want to end it there. I wondered if living in California was better for a worker making the average california salary instead of minimum wage. The table below is the one I produced to answer this question. 
 
