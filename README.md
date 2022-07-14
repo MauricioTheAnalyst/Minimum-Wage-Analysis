@@ -1,9 +1,11 @@
 # Minimum Wage Analysis
 
-Description: 
+### Description: 
+
 In August 2021, I had a cousin living at home with us. She had always thought about moving to Washington, she argued that Washington was financially a much better state to live in. However, my dad argued that California was a better state to live in because the minimum wage was higher. This eventually evolved to a family debate. My visiion for this project was to end the debate once and for all.
 
-Overview:
+### Overview:
+
 1. Gathered and imported data into SAS dataset
 2. Merged and Sorted datasets for analysis using SAS
 3. Produced PDF Report of Data using SAS
@@ -39,7 +41,12 @@ During my analysis I realized that my cousin was in fact right. From the image a
 
 The results were clear. A washington worker making the average salary will be able to save more money after accounting for average cost of living. While washington ranked 11 on this scale, California ranked 48: one of the worst. 
 
-In every aspect, the clear winner was Washington. Washington simply offers a better bang for your buck.
+## In every aspect, the clear winner was Washington. Washington simply offers a better bang for your buck.
+
+### Ending Notes:
+
+This analysis was based on information available in August 2021
+
 
 
 
